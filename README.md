@@ -33,7 +33,7 @@ This script is built using the following structure:
 
 ##### script_name: The name of the command that will launch the program. In the above example the command *cats* will launch the program
 ##### directory_path: the path of the program's directory
-##### executable_file_name: the name of the files which starts the program. Notice that you should enter the *name* of the file and not the path of it, otherwise the script won't work.
+##### executable_file_name: the name of the files which start the program. Notice that you should enter the *name* of the file and not its path, otherwise the script won't work.
 
 Give it a shot and if you have any issues please let me know!
 
