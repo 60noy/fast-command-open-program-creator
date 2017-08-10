@@ -3,7 +3,7 @@ A script I created which enables fast program executing in terminal
 
 I created this script after realising I repeat the same steps over and over again 
 for every program I download on Linux.
-This script creates a copy of the program in ~/bin and script in ~/bin which executes the program in the directory.
+This script creates a copy of the program in ~/bin and a script in ~/bin which executes the program in the directory.
 
 ### IMPORTANT: You should include ~/bin in PATH. Without doing so - the script wouldn't work.
 
@@ -15,7 +15,7 @@ This script creates a copy of the program in ~/bin and script in ~/bin which exe
 ## How should I use it?
 Let's say you have a directory named cats_program. Inside that directory there's a program of cats which displays cats' pictures.
 The executable file of the program is named Cats and it's inside the folder cats_program.
-You want to be enable to launch the cats program everywhere from the terminal by this command:
+You want to be able to launch the cats program everywhere from the terminal by this command:
 
 `# cats`
 
