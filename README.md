@@ -1,4 +1,4 @@
-# fast-shortcut-shell-command
+# fast-command-open-program-creator
 A script I created which enables fast program executing in terminal
 
 I created this script after realising I repeat the same steps over and over again 
