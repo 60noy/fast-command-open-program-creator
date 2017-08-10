@@ -23,7 +23,7 @@ You can easily do this using this script with the following command:
 
 `# cs cats ~/Downloads/cats_program Cats`
 
-Then you can access the program directly using the command cats.
+Then you can access the program directly using the command *cats*.
 
 ## Deep explanation:
 
