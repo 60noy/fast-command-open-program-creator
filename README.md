@@ -5,7 +5,7 @@ I created this script after realising I repeat the same steps over and over agai
 for every program I download on Linux.
 This script creates a copy of the program in ~/bin and script in ~/bin which executes the program in the directory.
 
-### IMPORTANT: You should include the target directory in PATH. Without doing so - the script wouldn't work.
+### IMPORTANT: You should include ~/bin in PATH. Without doing so - the script wouldn't work.
 
 ## What does this program do?
 * Creates a copy of the program's folder in ~/bin named *script_name*_dir - the script_name is dynamic
